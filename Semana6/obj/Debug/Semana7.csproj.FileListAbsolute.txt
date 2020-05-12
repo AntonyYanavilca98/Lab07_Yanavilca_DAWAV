@@ -1,0 +1,6 @@
+C:\Cursos\6TO ciclo\DAWAV\Semana7\Semana6\bin\Debug\Semana7.exe.config
+C:\Cursos\6TO ciclo\DAWAV\Semana7\Semana6\bin\Debug\Semana7.exe
+C:\Cursos\6TO ciclo\DAWAV\Semana7\Semana6\bin\Debug\Semana7.pdb
+C:\Cursos\6TO ciclo\DAWAV\Semana7\Semana6\obj\Debug\Semana7.csproj.CoreCompileInputs.cache
+C:\Cursos\6TO ciclo\DAWAV\Semana7\Semana6\obj\Debug\Semana7.exe
+C:\Cursos\6TO ciclo\DAWAV\Semana7\Semana6\obj\Debug\Semana7.pdb
